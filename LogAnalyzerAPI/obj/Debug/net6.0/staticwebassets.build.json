@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oxpCU5IHkxCYC125KvaF95HsN6cIJPdn7KJcAtMQwgs=",
+  "Source": "LogAnalyzerAPI",
+  "BasePath": "_content/LogAnalyzerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

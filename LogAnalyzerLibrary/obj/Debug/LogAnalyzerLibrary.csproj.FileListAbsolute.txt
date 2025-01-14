@@ -1,0 +1,6 @@
+C:\Users\onyedika.ezeamama\Desktop\project\LogAnalyzerLibrary\LogAnalyzerLibrary\bin\Debug\LogAnalyzerLibrary.dll
+C:\Users\onyedika.ezeamama\Desktop\project\LogAnalyzerLibrary\LogAnalyzerLibrary\bin\Debug\LogAnalyzerLibrary.pdb
+C:\Users\onyedika.ezeamama\Desktop\project\LogAnalyzerLibrary\LogAnalyzerLibrary\obj\Debug\LogAnalyzerLibrary.csproj.AssemblyReference.cache
+C:\Users\onyedika.ezeamama\Desktop\project\LogAnalyzerLibrary\LogAnalyzerLibrary\obj\Debug\LogAnalyzerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\onyedika.ezeamama\Desktop\project\LogAnalyzerLibrary\LogAnalyzerLibrary\obj\Debug\LogAnalyzerLibrary.dll
+C:\Users\onyedika.ezeamama\Desktop\project\LogAnalyzerLibrary\LogAnalyzerLibrary\obj\Debug\LogAnalyzerLibrary.pdb
